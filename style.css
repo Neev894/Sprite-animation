@@ -1,0 +1,17 @@
+canvas {
+    border: 10px solid black;
+    align-self: center;
+    background: rgb(13, 33, 216);
+    margin-right: 100px;
+}
+
+body{
+    background:rgb(168, 97, 115);
+}
+
+button{
+    justify-content: center;
+    border-radius: 100px;
+    border: 100px black;
+    
+}
